@@ -1,7 +1,0 @@
-# Matikan directory listing di semua folder
-Options -Indexes
-
-# Blokir akses langsung ke file konfigurasi/sensitif dari browser
-<FilesMatch "\.(sql|md|env|log|gitignore)$">
-    Require all denied
-</FilesMatch>

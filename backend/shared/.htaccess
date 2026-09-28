@@ -1,3 +1,0 @@
-# File-file di sini cuma logic yang di-require oleh wrapper admin/petugas,
-# bukan endpoint yang boleh diakses langsung dari browser
-Require all denied
