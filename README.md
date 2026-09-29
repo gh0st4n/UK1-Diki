@@ -6,7 +6,7 @@ Repositori ini berisi laporan hasil **Penetration Testing** terhadap aplikasi *P
 
 Laporan lengkap dapat dilihat di:
 
-👉 **[laporan/laporan.md](Laporan/laporan.md)**
+👉 **[laporan/laporan.md](laporan/laporan.md)**
 
 ## 📊 Ringkasan Temuan
 
